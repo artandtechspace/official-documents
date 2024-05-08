@@ -8,11 +8,19 @@
 \usepackage{fancyhdr}
 \usepackage{hyperref}
 \usepackage{microtype}
+\usepackage{amsmath}
 \usepackage{tocloft}
 \usepackage{titlesec}
 \usepackage{lastpage}
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage{ragged2e}
+\usepackage{eurosym}
 
-\pagestyle{empty}
+\renewcommand{\headrulewidth}{0pt}
+\titleformat{\section}{\large\bfseries}{§ \thesection}{1em}{}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
 \title{Vereinssatzung \\
 ARTandTECH.space e.V.}
 \author{
@@ -31,20 +39,18 @@ ARTandTECH.space e.V.}
   pdfstartview=Fit,
 }
 
-
 \date{\today}
-\renewcommand{\headrulewidth}{0pt}
-\titleformat{\section}{\large\bfseries}{§ \thesection}{1em}{}
-\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
-
 
 \begin{document}
 
+% Titelseite
 \maketitle
+\thispagestyle{empty}
 
 \begin{center}
 	\includegraphics[width=0.3\textwidth]{assets/logo.png}
 \end{center}
+
 
 \thispagestyle{fancy}
 
@@ -59,16 +65,19 @@ ARTandTECH.space e.V.}
 	unterstützt. Die Mitglieder und Nutzer:innen pflegen einen solidarischen Umgang, der jedem gleiche
 	Chancen für eine Teilhabe ermöglicht.
 \end{abstract}
-
 \newpage
-\tableofcontents
+
+% Inhaltsverzeichnis
 \pagestyle{fancy}
 \fancyhf{}
-
 \fancyhead[L]{\textbf{Vereinssatzung}}
 \fancyhead[R]{\includegraphics[width=0.15\textwidth]{assets/logo.png}}
-\fancyfoot[R]{Seite \thepage\ von \pageref{LastPage}}
+\tableofcontents
+\thispagestyle{fancy}
 \newpage
+
+% Inhalt
+\fancyfoot[R]{Seite \thepage\ von \pageref{LastPage}}
 \setcounter{page}{1}
 
 \section{Name, Sitz, Geschäftsjahr}
