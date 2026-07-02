@@ -67,7 +67,7 @@
 ]
 
 #align(center)[
-  #text(size: 13pt, weight: "bold")[Abstract]
+  #text(size: 13pt, weight: "bold")[Zusammenfassung]
 ]
 
 Der ARTandTECH.space ist ein gemeinsames Projekt der Stadt Rheine und
@@ -120,13 +120,13 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   interdisziplinäre Förderung der kulturellen Bildung und der
   MINT-Bildung. Hierzu gehören die Planung, Unterstützung und
   Durchführung von kreativen und technischen Projekten, die Beschaffung
-  von Finanzmitteln sowie dem Aufbau, Einrichtung und Betrieb von
+  von Finanzmitteln sowie der Aufbau, die Einrichtung und der Betrieb von
   Kreativ- und Arbeitsräumen sowie von Werkstätten für den
   ARTandTECH.space e.V. in Rheine.
 
-+ Daneben kann der Verein seinen Förderzweck auch verwirklichen, in dem
-  er MINT-Projekte sowohl als auch Projekte der kulturellen Bildung
-  unterstützt durch:
++ Daneben kann der Verein seinen Förderzweck auch verwirklichen, indem
+  er sowohl MINT-Projekte als auch Projekte der kulturellen Bildung
+  durch Folgendes unterstützt:
 
   - die Bereitstellung von Geräten, Betriebsmitteln, Materialien,
     Arbeitsplätzen.
@@ -138,7 +138,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
     der kulturellen und MINT-Bildung.
 
   - die Organisation eigener Kurse, Angebote, Aktionen und
-    Veranstaltungen für Menschen jeglichen
+    Veranstaltungen für Menschen jeglichen Alters.
 
   - die Vernetzung und Kooperation von Akteuren, die ähnliche Ziele
     verfolgen.
@@ -169,7 +169,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 + Die Mitgliedschaft ist schriftlich zu beantragen. Über die Annahme
   entscheidet der Vorstand nach freiem Ermessen. Die Mitgliedschaft
   beginnt mit der Annahme des Antrags. Gegen die Ablehnung, die keiner
-  Begründung bedarf, steht der/dem Bewerber:in die Berufung an die
+  Begründung bedarf, steht der Bewerberin/dem Bewerber die Berufung an die
   Mitgliederversammlung zu. Diese entscheidet abschließend.
 
 + Die Mitgliederversammlung kann Personen, die sich besondere Verdienste
@@ -202,7 +202,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 + Die Streichung von der Mitgliederliste erfolgt durch Beschluss des
   Vorstands, wenn das Mitglied trotz zweimaliger Mahnung mit der Zahlung
   des Beitrages in Rückstand ist oder der Rückstand mehr als einen
-  Jahresbeitrag beträgt. Die Streichung der Mitgliederliste darf erst
+  Jahresbeitrag beträgt. Die Streichung von der Mitgliederliste darf erst
   dann beschlossen werden, wenn nach Absendung der Mahnung ein Monat
   verstrichen ist und die Streichung angedroht wurde.
 
@@ -265,8 +265,8 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   statt. Der Vorstand kann jedoch beschließen, dass die
   Mitgliederversammlung ausschließlich als virtuelle
   Mitgliederversammlung in Form einer onlinebasierten Versammlung
-  (virtuelle llversammlung) oder als Kombination von Präsenzversammlung
-  und virtueller Versammlung (hybride Vollversammlung) stattfindet. Die
+  oder als Kombination von Präsenzversammlung und virtueller Versammlung
+  (hybride Mitgliederversammlung) stattfindet. Die
   teilnahmeberechtigten Personen haben keinen Anspruch darauf, virtuell
   an einer Mitgliederversammlung teilzunehmen, die als
   Präsenzversammlung durchgeführt wird.
@@ -294,7 +294,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 + Die Mitgliederversammlung beschließt über
 
   - alle in dieser Satzung genannten Ordnungen, soweit sie nicht einem
-    anderen Organ zugewiesen
+    anderen Organ zugewiesen sind
 
   - die ihr mit dieser Satzung zugewiesenen Aufgaben
 
@@ -319,13 +319,13 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 
   - Beschlussfassung über Anträge
 
-  - weiteren Ordnungen zum Betrieb und Abläufen innerhalb des Vereins
+  - weitere Ordnungen zum Betrieb und zu Abläufen innerhalb des Vereins
 
   Ausgenommen sind Satzungsänderungen, die von Aufsichts-, Gerichts-
   und/oder Finanzbehörden aus formalen oder sonstigen Gründen verlangt
   werden. Über solche Satzungsänderungen entscheidet der Vorstand.
   Überdies entscheidet die Mitgliederversammlung über die
-  Angelegenheiten, die ihr angetragen werden.
+  Angelegenheiten, die an sie herangetragen werden.
 
 + Der Vorstand beruft außerordentliche Mitgliederversammlungen ein, wenn
   das Interesse des Vereins dies erfordert oder wenn die Einberufung von
@@ -350,18 +350,18 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   Anträge gegebenenfalls auch ohne diese Frist zulassen.
 
 + Alle Beschlüsse der Mitgliederversammlung werden mit einfacher
-  Stimmenmehrheit gefasst, soweit gesetzlichen Regelungen oder diese
-  Satzung nichts Anderes vorschreiben. Bei Stimmengleichheit entscheidet
+  Stimmenmehrheit gefasst, soweit gesetzliche Regelungen oder diese
+  Satzung nichts anderes vorschreiben. Bei Stimmengleichheit entscheidet
   die Stimme des Versammlungsleiters. Stimmenthaltungen gelten als nicht
-  herausgegebene Stimme.
+  abgegebene Stimmen.
 
 + Über die Beschlüsse der Mitgliederversammlung und, soweit zum
   Verständnis über deren Zustandekommen erforderlich, auch über den
   wesentlichen Verlauf der Verhandlung, ist eine Niederschrift zu
-  fertigen. Hierzu bestellt die Mitgliederversammlung einen
-  Schriftführer. Die Niederschrift ist vom Schriftführer und dem
-  Vereinsvorsitzenden zu unterschreiben und den Mitgliedern zeitnah per
-  E-Mail zu übersenden.
+  fertigen. Hierzu bestellt die Mitgliederversammlung eine
+  schriftführende Person. Die Niederschrift ist von der
+  schriftführenden Person und der/dem Vereinsvorsitzenden zu
+  unterschreiben und den Mitgliedern zeitnah per E-Mail zu übersenden.
 
 + Mitgliederversammlungen sind nicht öffentlich. Es können Gäste
   zugelassen werden. Über ihre Teilnahme entscheidet die
@@ -369,29 +369,29 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 
 = Vorstand
 <vorstand>
-+ Der Vorstand besteht aus: Der/Dem Vorstandsvorsitzenden, fünf
-  Stellvertretern:innen der/dem Kassierer:in sowie bis zu vier
++ Der Vorstand besteht aus der/dem Vorstandsvorsitzenden, fünf
+  Stellvertreter:innen, der Kassiererin/dem Kassierer sowie bis zu vier
   Beisitzer:innen.
 
-+ Geschäftsführender Vorstand im Sinne des § 26 BGB sind: Der/Die
-  Vorstandsvorsitzende, fünf Stellvertretern:innen sowie der/dem
-  Kassierer:in. Sie vertreten den Verein gerichtlich und
-  außergerichtlich. Zwei Mitglieder des geschäftsführenden Vorstand
++ Der geschäftsführende Vorstand im Sinne des § 26 BGB besteht aus
+  der/dem Vorstandsvorsitzenden, fünf Stellvertreter:innen sowie der
+  Kassiererin/dem Kassierer. Diese Personen vertreten den Verein gerichtlich und
+  außergerichtlich. Zwei Mitglieder des geschäftsführenden Vorstands
   vertreten gemeinsam. Beim Abschluss von Grund- oder Vermögenserwerb,
   Kreditverträgen und laufenden finanziellen Verpflichtungen oder
-  Arbeitsverträgen vertritt die/der Kassenwart:in mit einem weiteren
-  Mitglied des geschäftsführenden Vorstands (Vorsitzende:n oder
-  Stellvertreter:in).
+  Arbeitsverträgen vertritt die Kassiererin/der Kassierer den Verein gemeinsam
+  mit einem weiteren Mitglied des geschäftsführenden Vorstands aus
+  Vorsitz oder Stellvertretung.
 
 + Die Vereinigung mehrerer Vorstandsämter in einer Person ist nicht
   zulässig.
 
 + Die Mitglieder des Vorstandes werden von der Mitgliederversammlung
-  gewählt, soweit im Folgenden nichts Anderes geregelt ist. Die
+  gewählt, soweit im Folgenden nichts anderes geregelt ist. Die
   Vorstandsmitglieder sind ehrenamtlich tätig. Für die Beisitzer:innen
   gilt ein Mindestalter von 14 Jahren, die übrigen Vorstandsmitglieder
-  müssen volljährig sein. Ein Vorstandsmitglied kann als Vertreter:in
-  der/des Kassenwartes:wartin benannt werden. Vorstandsmitgliedern kann
+  müssen volljährig sein. Ein Vorstandsmitglied kann als Vertretung
+  der Kassiererin/des Kassierers benannt werden. Vorstandsmitgliedern kann
   durch Beschluss des Vorstands ein besonderer Geschäftsbereich
   zugewiesen werden. Es können nur Mitglieder des Vereins
   Vorstandsmitglied werden. Alle Vorstandsmitglieder sind
@@ -400,7 +400,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 + Geborene Mitglieder: Je eine von der Stadt Rheine und dem Kreis
   Steinfurt benannte Person ist geborenes Mitglied im Vorstand. Sie muss
   nicht Mitglied des Vereins sein. Sie nimmt im Vorstand mindestens das
-  Amt einer/s Stellvertreters:in wahr.
+  Amt einer Stellvertreterin/eines Stellvertreters wahr.
 
 + Der Vorstand wird auf die Dauer von zwei Jahren gewählt und bleibt bis
   zur Neuwahl im Amt. Die Wiederwahl ist zulässig.
@@ -426,14 +426,14 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 + Mit Beendigung der Vereinsmitgliedschaft endet auch die Mitgliedschaft
   im Vereinsvorstand. Scheidet ein Mitglied des Vorstandes vorzeitig
   aus, so können die verbleibenden Vorstandsmitglieder für die restliche
-  Amtsdauer einen Nachfolger bestimmen.
+  Amtsdauer eine Nachfolge bestimmen.
 
 + Der Vorstand fasst seine Beschlüsse in Sitzungen mit einfacher
   Mehrheit der abgegebenen Stimmen. Der Vorstand ist beschlussfähig,
   wenn mindestens die Hälfte seiner Mitglieder anwesend ist. Bei
-  Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
+  Stimmengleichheit entscheidet die Stimme der/des Vorsitzenden.
 
-+ Die/Der Vorsitzende beruft die Vorstandssitzungen ein und leitet sie.
++ Die/der Vorsitzende beruft die Vorstandssitzungen ein und leitet sie.
   Die Beschlüsse des Vorstandes sind zu protokollieren.
 
 + Der Vorstand kann seine Beschlüsse auch im schriftlichen oder
@@ -446,7 +446,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   wirtschaftlichen Verhältnisse und der Haushaltslage beschließen, dass
   Vereins- und Organämter entgeltlich auf der Grundlage eines Dienst-
   oder Arbeitsvertrages oder gegen Zahlung einer pauschalen
-  Aufwandsentschädigung gem. § 3 Nr. 26 a EStG ausgeübt werden. Für die
+  Aufwandsentschädigung gem. § 3 Nr. 26a EStG ausgeübt werden. Für die
   Entscheidung über Vertragsbeginn, Vertragsinhalte und Vertragsende ist
   der Vorstand zuständig. Der Vorstand kann bei Bedarf und unter
   Berücksichtigung der wirtschaftlichen Verhältnisse und der
@@ -459,12 +459,12 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   Geschäftsstellenleitung und/oder Mitarbeiter:innen für die Verwaltung
   einzustellen. Die Geschäftsstellenleitung ist verpflichtet, an den
   Sitzungen des Vorstandes mit beratender Stimme teilzunehmen. Die
-  arbeitsrechtliche Direktionsbefugnis hat der 1. Vorsitzende.
+  arbeitsrechtliche Direktionsbefugnis hat die/der 1. Vorsitzende.
   Alternativ kann auf vorherigen Beschluss der Mitgliederversammlung
-  nach §27 BGB vertretungsberechtigte Vorstandsmitglieder auch als
-  geschäftsführenden Vorstandsmitglieder gewählt und auf Vergütungsbasis
+  nach § 27 BGB vertretungsberechtigte Vorstandsmitglieder auch als
+  geschäftsführende Vorstandsmitglieder gewählt und auf Vergütungsbasis
   tätig werden. Ihnen kann auf Beschluss der Mitgliederversammlung
-  Befreiung von den Einschränkungen des §181 BGB erteilt werden.
+  Befreiung von den Einschränkungen des § 181 BGB erteilt werden.
 
 = Beirat
 <beirat>
@@ -489,7 +489,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 
   - die Beiratsvorsitzende bzw. den Beiratsvorsitzenden,
 
-  - die stellvertretende Beiratsvorsitzenden bzw. den stellvertretenden
+  - die stellvertretende Beiratsvorsitzende bzw. den stellvertretenden
     Beiratsvorsitzenden
 
   für die Dauer von einem Jahr. Die Wiederwahl ist zulässig. Die bzw.
@@ -525,11 +525,12 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 + Die Kassenprüfer:innen dürfen nicht Mitglieder des Vorstands sein.
 
 + Anstelle der Kassenprüfer:innen kann die Mitgliederversammlung auch
-  einen Wirtschaftsprüfer mit der jährlichen Kassenprüfung beauftragen.
+  eine:n Wirtschaftsprüfer:in mit der jährlichen Kassenprüfung
+  beauftragen.
 
 = Haftung
 <haftung>
-Der Verein haftet nicht für Schäden oder Verluste die Mitglieder bei
+Der Verein haftet nicht für Schäden oder Verluste, die Mitglieder bei
 Benutzung von Anlagen und Einrichtungen des Vereins oder bei
 Vereinsveranstaltungen erleiden, soweit solche Schäden nicht durch
 Versicherungen gedeckt sind. § 276 BGB bleibt unberührt.
@@ -578,7 +579,7 @@ Beschlussfassung.
 
   - der Jugendhilfe (§ 52 AO Abs. 2 Ziff. 4)
 
-  - der Kunst- und Kultur (§ 52 AO Abs. 2 Ziff. 5)
+  - der Kunst und Kultur (§ 52 AO Abs. 2 Ziff. 5)
 
   - der Erziehung, Volks- und Berufsbildung (§ 52 AO Abs. 2 Ziff. 7)
 

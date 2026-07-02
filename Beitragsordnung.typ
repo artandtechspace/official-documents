@@ -105,22 +105,22 @@ Die folgenden Beiträge sind Mindestbeiträge.
   [#strong[Beitragsklasse]], [#strong[Mitgliedsform]],
   [#strong[Beitragshöhe pro Jahr in EUR]],
   [01],
-  [Schüler, Studierende und Auszubildende Sowie
+  [Schüler:innen, Studierende und Auszubildende sowie
   Freiwilligendienstleistende bis zum 25. Lebensjahr, Inhabende der
-  Müunsterlandkarte, der Jugendleiterkarte und der Ehrenamtskarte],
-  [24€],
+  Münsterlandkarte, der Jugendleiterkarte und der Ehrenamtskarte],
+  [24 €],
   [02],
   [Familien],
-  [80€],
+  [80 €],
   [02.1],
   [Familien als Inhabende der Münsterlandkarte],
-  [30€],
+  [30 €],
   [03],
-  [Personen, welche nicht unter 01 und 02 fallen],
-  [60€],
+  [Personen, die nicht unter 01 und 02 fallen],
+  [60 €],
   [04],
   [Juristische Personen],
-  [100€],
+  [100 €],
 )
 ]
 
@@ -139,8 +139,8 @@ Konto des Vereins eingegangen sein. Ist die Zahlung zu diesem Zeitpunkt
 beim Verein nicht eingegangen, befindet sich das Mitglied mit seiner
 Zahlungsverpflichtung in Verzug. Der ausstehende Beitrag wird dann mit
 einem Säumniszuschlag von 1,00 € je 7 Kalendertage belegt. Weist das
-Konto eines Mitglieds zum Zeitpunkt der Abbuchung des Beitrages /der
-Gebühren /der Umlage keine Deckung auf, so haftet das Mitglied dem
+Konto eines Mitglieds zum Zeitpunkt der Abbuchung des Beitrags, der
+Gebühren oder der Umlage keine Deckung auf, so haftet das Mitglied dem
 Verein gegenüber für sämtliche dem Verein mit der Einziehung des
 Beitrages (einschl. Kosten für Rücklastschriften) verbundenen Kosten.
 Dies gilt auch für den Fall, dass ein bezogenes Konto erloschen ist und
@@ -154,10 +154,10 @@ werden, werden folgende Mahnkosten fällig:
   inset: 6pt,
   [#strong[Mahnstufe]], [#strong[Mahnkosten in EUR]], [#strong[Frist]],
   [1.],
-  [5,00€],
+  [5,00 €],
   [4 Wochen],
   [2.],
-  [10,00€],
+  [10,00 €],
   [6 Wochen],
 )
 ]
@@ -194,26 +194,33 @@ Derzeit sind diese nicht festgesetzt.
   eingezogen. Zwischen der Bekanntgabe und dem Einzug liegen mindestens
   28 Kalendertage
 
-+ DerVorstandistermächtigt,dieZahlungvonBeiträgenaufAntragzustunden,zu
-  ermäßigen, zu erlassen oder eine Ratenzahlung zu vereinbaren. Ein
-  Rechtsanspruch auf Ratenzahlung und / oder Stundung der Beitragsschuld
-  besteht nicht.
++ Der Vorstand ist ermächtigt, die Zahlung von Beiträgen auf Antrag zu
+  stunden, zu ermäßigen, zu erlassen oder eine Ratenzahlung zu
+  vereinbaren. Ein Rechtsanspruch auf Ratenzahlung und/oder Stundung der
+  Beitragsschuld besteht nicht.
 
-+ Erfolgt der Vereinseintritt nach dem 30.06. erfolgt eine Berechnung
++ Erfolgt der Vereinseintritt nach dem 30.06., erfolgt eine Berechnung
   von 50% des Beitragssatzes.
 
 = Vereinskonto
 <vereinskonto>
-ARTandTECH.space e.V.
+#block(breakable: false)[
+  #table(
+    columns: (3.2cm, 1fr),
+    stroke: none,
+    inset: (x: 0pt, y: 3pt),
+    align: (left, left),
+    [#strong[Kontoinhaber]], [ARTandTECH.space e.V.],
+    [#strong[IBAN]], [DE75 4035 0005 0000 0632 97],
+    [#strong[BIC]], [WELADED1RHN],
+    [#strong[Kreditinstitut]], [Sparkasse Rheine],
+  )
 
-IBAN: DE75 4035 0005 0000 0632 97
+  #v(6pt)
 
-BIC: WELADED1RHN
-
-Kreditinstitut: Sparkasse Rheine
-
-Überweisung auf andere Konten sind nicht zulässig und werden nicht als
-Zahlungen anerkannt.
+  Überweisungen auf andere Konten sind nicht zulässig und werden nicht
+  als Zahlungen anerkannt.
+]
 
 = Vereinsaustritt
 <vereinsaustritt>
