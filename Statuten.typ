@@ -592,5 +592,8 @@ Beschlussfassung.
 + Anstelle der ungültigen Bestimmung tritt eine Regelung, die dieser
   inhaltlich am nächsten kommt.
 
-#strong[#emph[Vorliegende Fassung der Satzung wurde in der
-Mitgliederversammlung am 25.04.2024 beschlossen.]]
+#v(1.2em)
+#align(center)[
+  #strong[#emph[Vorliegende Fassung der Satzung wurde in der
+  Mitgliederversammlung am 25.04.2024 beschlossen.]]
+]

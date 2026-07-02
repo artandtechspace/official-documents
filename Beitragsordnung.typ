@@ -228,5 +228,8 @@ Der Austritt aus dem Verein kann nur unter Beachtung des § 5 der Satzung
 erfolgen. Mitgliedsbeiträge, die im Jahr des Austritts eingezogen
 wurden, werden nicht erstattet.
 
-#strong[#emph[Vorliegende Fassung der Beitragsordnung wurde in der
-Mitgliederversammlung am 25.04.2024 beschlossen.]]
+#v(1.2em)
+#align(center)[
+  #strong[#emph[Vorliegende Fassung der Beitragsordnung wurde in der
+  Mitgliederversammlung am 25.04.2024 beschlossen.]]
+]
