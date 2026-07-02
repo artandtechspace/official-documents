@@ -1,23 +1,83 @@
-#set text(lang: "de")
+#let association-name = "ARTandTECH.space e.V."
+#let association-address = "Lindenstraße 11 · 48431 Rheine"
+#let document-title = "Beitragsordnung"
+#let document-date = "25. April 2024"
+#let document-version = "Beschlossen am 25.04.2024"
+
+#set text(lang: "de", size: 11pt)
 #set document(
   title: "Beitragsordnung ARTandTECH.space e.V.",
   author: "ARTandTECH.space e.V.",
 )
 #set page(margin: (top: 4.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm))
+#set par(justify: true)
+#set enum(numbering: "(1)")
+#set heading(numbering: n => [§ #numbering("1", n)])
+#show heading.where(level: 1): set text(size: 1.35em, weight: "bold")
+#let document-header = [
+  #text(size: 8.5pt)[
+    #grid(
+      columns: (1fr, auto),
+      align: (left, right + horizon),
+      [#strong[#document-title]],
+      image("assets/logo.png", width: 3.2cm),
+    )
+  ]
+  #v(4pt)
+  #line(length: 100%, stroke: 0.45pt)
+]
+#let document-footer = context [
+  #line(length: 100%, stroke: 0.45pt)
+  #v(4pt)
+  #text(size: 8.5pt)[
+    #grid(
+      columns: (1fr, 1fr, 1fr),
+      align: (left, center, right),
+      [#association-address],
+      [#document-version],
+      [Seite #counter(page).display() von #counter(page).final().first()],
+    )
+  ]
+]
+#let document-frontmatter-footer = [
+  #line(length: 100%, stroke: 0.45pt)
+  #v(4pt)
+  #text(size: 8.5pt)[
+    #grid(
+      columns: (1fr, 1fr, 1fr),
+      align: (left, center, right),
+      [#association-address],
+      [#document-version],
+      [Inhaltsverzeichnis],
+    )
+  ]
+]
 
 #align(center)[
-  = Beitragsordnung
-  ARTandTECH.space e.V.
+  #text(size: 22pt, weight: "bold")[#document-title] \
 
-  Lindenstraße 11
-  48431 Rheine
+  #association-name \
+
+  Lindenstraße 11 \
+  48431 Rheine \
+
+  #document-date
 
   #image("assets/logo.png", width: 30%)
 ]
 
 #pagebreak()
+#set page(
+  header: document-header,
+  footer: document-frontmatter-footer,
+)
 #outline(title: [Inhaltsverzeichnis])
 #pagebreak()
+#counter(page).update(1)
+#set page(
+  header: document-header,
+  footer: document-footer,
+)
 
 = Grundsatz
 <grundsatz>

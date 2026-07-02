@@ -1,29 +1,105 @@
-#set text(lang: "de")
+#let association-name = "ARTandTECH.space e.V."
+#let association-address = "Lindenstraße 11 · 48431 Rheine"
+#let document-title = "Vereinssatzung"
+#let document-date = "24. April 2024"
+#let document-version = "Beschlossen am 25.04.2024"
+
+#set text(lang: "de", size: 11pt)
 #set document(
   title: "Vereinssatzung ARTandTECH.space e.V.",
   author: "ARTandTECH.space e.V.",
 )
 #set page(margin: (top: 4.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm))
+#set par(justify: true)
+#set enum(numbering: "(1)")
+#set heading(numbering: n => [§ #numbering("1", n)])
+#show heading.where(level: 1): set text(size: 1.35em, weight: "bold")
+#let statuten-header = [
+  #text(size: 8.5pt)[
+    #grid(
+      columns: (1fr, auto),
+      align: (left, right + horizon),
+      [#strong[#document-title]],
+      image("assets/logo.png", width: 3.2cm),
+    )
+  ]
+  #v(4pt)
+  #line(length: 100%, stroke: 0.45pt)
+]
+#let statuten-footer = context [
+  #line(length: 100%, stroke: 0.45pt)
+  #v(4pt)
+  #text(size: 8.5pt)[
+    #grid(
+      columns: (1fr, 1fr, 1fr),
+      align: (left, center, right),
+      [#association-address],
+      [#document-version],
+      [Seite #counter(page).display() von #counter(page).final().first()],
+    )
+  ]
+]
+#let statuten-frontmatter-footer = [
+  #line(length: 100%, stroke: 0.45pt)
+  #v(4pt)
+  #text(size: 8.5pt)[
+    #grid(
+      columns: (1fr, 1fr, 1fr),
+      align: (left, center, right),
+      [#association-address],
+      [#document-version],
+      [Inhaltsverzeichnis],
+    )
+  ]
+]
 
 #align(center)[
-  = Vereinssatzung
-  ARTandTECH.space e.V.
+  #text(size: 22pt, weight: "bold")[#document-title] \
 
-  Lindenstraße 11
-  48431 Rheine
+  #association-name \
+
+  Lindenstraße 11 \
+  48431 Rheine \
+
+  #document-date
 
   #image("assets/logo.png", width: 30%)
 ]
 
+#align(center)[
+  #text(size: 13pt, weight: "bold")[Abstract]
+]
+
+Der ARTandTECH.space ist ein gemeinsames Projekt der Stadt Rheine und
+des Kreises Steinfurt. Hier wird die vorwiegend naturwissenschaftlich
+technisch orientierte MINT-Bildung, der kreative Umgang mit Technik, mit
+der kulturellen, ästhetischen und künstlerischen Bildung verknüpft. So
+entstehen Chancen für die Menschen auf Partizipation, Identitätsbildung
+und die Entwicklung elementarer sozialer Kompetenzen wie Teamfähigkeit
+und Verantwortungsbewusstsein. Eine offene und einladende Atmosphäre
+bietet niedrigschwellige Zugänge für jeden, der den ARTandTECH.space im
+Sinne der Vereinsziele nutzen möchte und/oder durch seine Mitarbeit
+unterstützt. Die Mitglieder und Nutzer:innen pflegen einen solidarischen
+Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
+
 #pagebreak()
+#set page(
+  header: statuten-header,
+  footer: statuten-frontmatter-footer,
+)
 #outline(title: [Inhaltsverzeichnis])
 #pagebreak()
+#counter(page).update(1)
+#set page(
+  header: statuten-header,
+  footer: statuten-footer,
+)
 
 = Name, Sitz, Geschäftsjahr
 <name-sitz-geschäftsjahr>
 + Der Verein führt den Namen ARTandTECH.space e.V. Er wird in das
   Vereinsregister in Rheine eingetragen und führt danach den Zusatz
-  „e.V.".
+  „e.V.“.
 
 + Der Verein hat seinen Sitz in Rheine
 
@@ -331,13 +407,20 @@
 
 + Der Vorstand ist für alle Angelegenheiten des Vereins zuständig,
   soweit diese nicht durch die Satzung einem anderen Organ des Vereins
-  zugewiesen sind. Er hat insbesondere folgende Aufgaben: - Vorbereitung
-  der Mitgliederversammlung und Aufstellung der Tagesordnung, -
-  Einberufung der Mitgliederversammlung, - Ausführung der Beschlüsse der
-  Mitgliederversammlung und - Aufstellung eines Haushaltsplanes für
-  jedes Geschäftsjahr sowie die Buchführung und Erstellung eines
-  Jahresberichtes. Der Vorstand kann sich zur Erledigung seiner Aufgaben
-  eine Geschäftsordnung geben. Diese wird in der nächsten
+  zugewiesen sind. Er hat insbesondere folgende Aufgaben:
+
+  - Vorbereitung der Mitgliederversammlung und Aufstellung der
+    Tagesordnung,
+
+  - Einberufung der Mitgliederversammlung,
+
+  - Ausführung der Beschlüsse der Mitgliederversammlung und
+
+  - Aufstellung eines Haushaltsplanes für jedes Geschäftsjahr sowie die
+    Buchführung und Erstellung eines Jahresberichtes.
+
+  Der Vorstand kann sich zur Erledigung seiner Aufgaben eine
+  Geschäftsordnung geben. Diese wird in der nächsten
   Mitgliederversammlung bekannt gegeben.
 
 + Mit Beendigung der Vereinsmitgliedschaft endet auch die Mitgliedschaft
@@ -402,13 +485,18 @@
   Aufgaben zu unterstützen und den Vereinszweck und die Ziele zu
   fördern.
 
-+ Die Beiräte wählen aus ihrem Kreis - die Beiratsvorsitzende bzw. den
-  Beiratsvorsitzenden, - die stellvertretende Beiratsvorsitzenden bzw.
-  den stellvertretenden Beiratsvorsitzenden für die Dauer von einem
-  Jahr. Die Wiederwahl ist zulässig. Die bzw. der Beiratsvorsitzende
-  und/oder die bzw. der stellvertretende Beiratsvorsitzende bleiben
-  jedoch nach Ablauf ihrer jeweiligen Amtszeit so lange kommissarisch im
-  Amt, bis eine Nachfolgerin bzw. ein Nachfolger gewählt ist.
++ Die Beiräte wählen aus ihrem Kreis
+
+  - die Beiratsvorsitzende bzw. den Beiratsvorsitzenden,
+
+  - die stellvertretende Beiratsvorsitzenden bzw. den stellvertretenden
+    Beiratsvorsitzenden
+
+  für die Dauer von einem Jahr. Die Wiederwahl ist zulässig. Die bzw.
+  der Beiratsvorsitzende und/oder die bzw. der stellvertretende
+  Beiratsvorsitzende bleiben jedoch nach Ablauf ihrer jeweiligen
+  Amtszeit so lange kommissarisch im Amt, bis eine Nachfolgerin bzw. ein
+  Nachfolger gewählt ist.
 
 + Die Beiräte treten in der Regel mindestens zweimal jährlich auf
   Einladung der/des Beiratsvorsitzenden zusammen.
