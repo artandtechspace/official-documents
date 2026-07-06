@@ -128,6 +128,21 @@ Jedes Mitglied kann freiwillig einen höheren Beitrag zahlen. Bei
 besonderen finanziellen Notlagen kann der Vorstand die Beiträge stunden
 oder erlassen.
 
++ Der Familienbeitrag umfasst bis zu zwei volljährige Personen sowie
+  deren minderjährige Kinder, soweit sie in einem gemeinsamen Haushalt
+  leben. Schüler:innen, Studierende, Auszubildende und
+  Freiwilligendienstleistende können bis zur Vollendung des 25.
+  Lebensjahres im Familienbeitrag berücksichtigt werden, sofern ein
+  geeigneter Nachweis vorliegt.
+
++ Ermäßigte Beiträge werden nur auf Antrag und gegen Vorlage eines
+  geeigneten Nachweises gewährt. Der Nachweis ist jährlich bis zum 31.
+  Januar vorzulegen. Wird der Nachweis nicht fristgerecht vorgelegt,
+  gilt ab dem jeweiligen Beitragsjahr der reguläre Beitrag.
+
++ Änderungen der Beitragshöhe gelten, sofern die Mitgliederversammlung
+  nichts anderes beschließt, ab dem folgenden Beitragsjahr.
+
 = Aufnahmebeitrag
 <aufnahmebeitrag>
 Ein Aufnahmebeitrag wird nicht erhoben.
@@ -137,16 +152,13 @@ Ein Aufnahmebeitrag wird nicht erhoben.
 Zahlungen müssen spätestens am nächsten Werktag nach Fälligkeit auf dem
 Konto des Vereins eingegangen sein. Ist die Zahlung zu diesem Zeitpunkt
 beim Verein nicht eingegangen, befindet sich das Mitglied mit seiner
-Zahlungsverpflichtung in Verzug. Der ausstehende Beitrag wird dann mit
-einem Säumniszuschlag von 1,00 € je 7 Kalendertage belegt. Weist das
-Konto eines Mitglieds zum Zeitpunkt der Abbuchung des Beitrags, der
-Gebühren oder der Umlage keine Deckung auf, so haftet das Mitglied dem
-Verein gegenüber für sämtliche dem Verein mit der Einziehung des
-Beitrages (einschl. Kosten für Rücklastschriften) verbundenen Kosten.
-Dies gilt auch für den Fall, dass ein bezogenes Konto erloschen ist und
-das Mitglied dies dem Verein nicht mitgeteilt hat. Muss ein Mitglied
-wegen fehlender Beitragszahlungen schriftlich zur Zahlung aufgefordert
-werden, werden folgende Mahnkosten fällig:
+Zahlungsverpflichtung in Verzug. Bei Zahlungsverzug können Mahn- und
+Verwaltungsgebühren nach dieser Beitragsordnung erhoben werden.
+Rücklastschriftkosten, die das Mitglied zu vertreten hat, sind dem
+Verein zu erstatten. Dies gilt auch für den Fall, dass ein bezogenes
+Konto erloschen ist und das Mitglied dies dem Verein nicht mitgeteilt
+hat. Muss ein Mitglied wegen fehlender Beitragszahlungen schriftlich zur
+Zahlung aufgefordert werden, werden folgende Mahnkosten fällig:
 
 #align(center)[#table(
   columns: 3,
@@ -179,28 +191,34 @@ Derzeit sind diese nicht festgesetzt.
 
 + Änderungen der persönlichen Angaben sind schnellstmöglich mitzuteilen.
 
-+ Mitgliedsbeiträge, Gebühren und Umlagen werden im
-  SEPA-Basis-Lastschriftverfahren eingezogen. Das Mitglied hat sich
-  hierzu bei Eintritt in den Verein zu verpflichten, ein SEPA-
-  Lastschriftmandat zu erteilen sowie für eine ausreichende Deckung des
-  bezogenen Kontos zu sorgen. Der Mitgliedsbeitrag wird unter Angabe
-  einer Gläubiger-ID und der Mandatsreferenz jährlich zum 1. Februar
++ Mitgliedsbeiträge, Gebühren und Umlagen sollen grundsätzlich im
+  SEPA-Basis-Lastschriftverfahren eingezogen werden. Das Mitglied hat
+  hierzu bei Eintritt in den Verein ein SEPA-Lastschriftmandat zu
+  erteilen sowie für eine ausreichende Deckung des bezogenen Kontos zu
+  sorgen. In begründeten Fällen kann der Vorstand eine Zahlung per
+  Überweisung zulassen. Der Mitgliedsbeitrag wird unter Angabe einer
+  Gläubiger-ID und der Mandatsreferenz jährlich zum 1. Februar
   eingezogen. Fällt dieser nicht auf einen Bankarbeitstag, erfolgt der
   Einzug am unmittelbar darauf folgenden Bankarbeitstag.
+
++ Der Verein informiert das Mitglied spätestens 14 Kalendertage vor dem
+  Einzug über Betrag, Fälligkeit, Gläubiger-ID und Mandatsreferenz.
+  Eine kürzere Frist kann mit dem Mitglied vereinbart werden.
 
 + Das Mitglied hat für eine pünktliche Entrichtung des Beitrages, der
   Gebühren und Umlagen Sorge zu tragen. Gebühren, Umlagen und sonstige
   Beiträge werden unter Bekanntgabe eines besonderen Datums fällig und
   eingezogen. Zwischen der Bekanntgabe und dem Einzug liegen mindestens
-  28 Kalendertage
+  14 Kalendertage, sofern mit dem Mitglied keine kürzere Frist
+  vereinbart wurde.
 
 + Der Vorstand ist ermächtigt, die Zahlung von Beiträgen auf Antrag zu
   stunden, zu ermäßigen, zu erlassen oder eine Ratenzahlung zu
   vereinbaren. Ein Rechtsanspruch auf Ratenzahlung und/oder Stundung der
   Beitragsschuld besteht nicht.
 
-+ Erfolgt der Vereinseintritt nach dem 30.06., erfolgt eine Berechnung
-  von 50% des Beitragssatzes.
++ Bei Eintritt bis zum 30.06. ist der volle Jahresbeitrag zu zahlen. Bei
+  Eintritt ab dem 01.07. ist die Hälfte des Jahresbeitrags zu zahlen.
 
 = Vereinskonto
 <vereinskonto>
@@ -225,8 +243,8 @@ Derzeit sind diese nicht festgesetzt.
 = Vereinsaustritt
 <vereinsaustritt>
 Der Austritt aus dem Verein kann nur unter Beachtung des § 5 der Satzung
-erfolgen. Mitgliedsbeiträge, die im Jahr des Austritts eingezogen
-wurden, werden nicht erstattet.
+erfolgen. Die Beitragspflicht besteht bis zum Ende der Mitgliedschaft.
+Bereits gezahlte Beiträge werden nicht anteilig erstattet.
 
 #v(1.2em)
 #align(center)[
