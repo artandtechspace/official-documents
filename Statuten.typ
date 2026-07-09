@@ -368,42 +368,45 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 
 = Vorstand
 <vorstand>
-+ Der Vorstand besteht aus der/dem Vorstandsvorsitzenden, fünf
-  Stellvertreter:innen, der Kassiererin/dem Kassierer sowie bis zu vier
-  Beisitzer:innen.
++ Der Vorstand besteht aus der/dem Vorstandsvorsitzenden, drei von der
+  Mitgliederversammlung gewählten Stellvertreter:innen, zwei geborenen
+  Vorstandsmitgliedern, der Kassiererin/dem Kassierer sowie bis zu vier
+  Beisitzer:innen. Die geborenen Vorstandsmitglieder nehmen jeweils das Amt
+  einer Stellvertreterin/eines Stellvertreters wahr.
 
 + Der geschäftsführende Vorstand im Sinne des § 26 BGB besteht aus
-  der/dem Vorstandsvorsitzenden, fünf Stellvertreter:innen sowie der
-  Kassiererin/dem Kassierer. Diese Personen vertreten den Verein gerichtlich und
-  außergerichtlich. Zwei Mitglieder des geschäftsführenden Vorstands
-  vertreten gemeinsam. Beim Abschluss von Grund- oder Vermögenserwerb,
-  Kreditverträgen und laufenden finanziellen Verpflichtungen oder
-  Arbeitsverträgen vertritt die Kassiererin/der Kassierer den Verein gemeinsam
-  mit einem weiteren Mitglied des geschäftsführenden Vorstands aus
-  Vorsitz oder Stellvertretung.
+  der/dem Vorstandsvorsitzenden, den drei gewählten Stellvertreter:innen,
+  den zwei geborenen Vorstandsmitgliedern sowie der Kassiererin/dem Kassierer.
+  Diese sieben Personen sind stimmberechtigt und vertreten den Verein
+  gerichtlich und außergerichtlich. Jeweils zwei von ihnen vertreten den
+  Verein gemeinsam. Beim Abschluss von Grund- oder Vermögenserwerb,
+  Kreditverträgen, laufenden finanziellen Verpflichtungen oder
+  Arbeitsverträgen vertritt die Kassiererin/der Kassierer den Verein
+  gemeinsam mit einem weiteren Mitglied des geschäftsführenden Vorstands.
 
 + Die Vereinigung mehrerer Vorstandsämter in einer Person ist nicht
   zulässig.
 
-+ Die Mitglieder des Vorstandes werden von der Mitgliederversammlung
-  gewählt, soweit im Folgenden nichts anderes geregelt ist. Die
-  Vorstandsmitglieder sind ehrenamtlich tätig. Für die Beisitzer:innen
-  gilt ein Mindestalter von 14 Jahren, die übrigen Vorstandsmitglieder
-  müssen volljährig sein. Ein Vorstandsmitglied kann als Vertretung
-  der Kassiererin/des Kassierers benannt werden. Vorstandsmitgliedern kann
-  durch Beschluss des Vorstands ein besonderer Geschäftsbereich
-  zugewiesen werden. Es können nur Mitglieder des Vereins
-  Vorstandsmitglied werden. Die Beisitzer:innen nehmen beratend an den
-  Sitzungen des Vorstandes teil. Sie sind im Vorstand nicht
-  stimmberechtigt. Die übrigen Vorstandsmitglieder sind stimmberechtigt.
++ Die/der Vorstandsvorsitzende, die drei gewählten Stellvertreter:innen,
+  die Kassiererin/der Kassierer und die Beisitzer:innen werden von der
+  Mitgliederversammlung gewählt. Sie müssen Mitglieder des Vereins sein.
+  Für die Beisitzer:innen gilt ein Mindestalter von 14 Jahren; die übrigen
+  Vorstandsmitglieder müssen volljährig sein. Die Vorstandsmitglieder sind
+  ehrenamtlich tätig. Ein Vorstandsmitglied kann als Vertretung der
+  Kassiererin/des Kassierers benannt werden. Vorstandsmitgliedern kann durch
+  Beschluss des Vorstands ein besonderer Geschäftsbereich zugewiesen werden.
+  Die Beisitzer:innen nehmen beratend an den Sitzungen des Vorstandes teil und
+  sind im Vorstand nicht stimmberechtigt.
 
-+ Geborene Mitglieder: Je eine von der Stadt Rheine und dem Kreis
-  Steinfurt benannte Person ist geborenes Mitglied im Vorstand. Sie muss
-  nicht Mitglied des Vereins sein. Sie nimmt im Vorstand mindestens das
-  Amt einer Stellvertreterin/eines Stellvertreters wahr.
++ Geborene Vorstandsmitglieder sind jeweils eine von der Stadt Rheine und eine
+  vom Kreis Steinfurt benannte volljährige natürliche Person. Sie werden nicht
+  von der Mitgliederversammlung gewählt und müssen nicht Mitglied des Vereins
+  sein.
 
-+ Der Vorstand wird auf die Dauer von zwei Jahren gewählt und bleibt bis
-  zur Neuwahl im Amt. Die Wiederwahl ist zulässig.
++ Die von der Mitgliederversammlung gewählten Vorstandsmitglieder werden auf
+  die Dauer von zwei Jahren gewählt und bleiben bis zur Neuwahl im Amt. Die
+  Wiederwahl ist zulässig. Das Amt eines geborenen Vorstandsmitglieds besteht
+  für die Dauer seiner Benennung.
 
 + Der Vorstand ist für alle Angelegenheiten des Vereins zuständig,
   soweit diese nicht durch die Satzung einem anderen Organ des Vereins
@@ -423,10 +426,12 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   Geschäftsordnung geben. Diese wird in der nächsten
   Mitgliederversammlung bekannt gegeben.
 
-+ Mit Beendigung der Vereinsmitgliedschaft endet auch die Mitgliedschaft
-  im Vereinsvorstand. Scheidet ein Mitglied des Vorstandes vorzeitig
-  aus, so können die verbleibenden Vorstandsmitglieder für die restliche
-  Amtsdauer eine Nachfolge bestimmen.
++ Bei einem gewählten Vorstandsmitglied endet mit der Beendigung der
+  Vereinsmitgliedschaft auch das Vorstandsamt. Scheidet ein gewähltes
+  Vorstandsmitglied vorzeitig aus, können die verbleibenden stimmberechtigten
+  Vorstandsmitglieder für die restliche Amtsdauer eine Nachfolge bestimmen.
+  Die Nachfolge eines geborenen Vorstandsmitglieds wird von der jeweils
+  benennungsberechtigten Körperschaft bestimmt.
 
 + Der Vorstand fasst seine Beschlüsse in Sitzungen mit einfacher
   Mehrheit der abgegebenen Stimmen. Der Vorstand ist beschlussfähig,
