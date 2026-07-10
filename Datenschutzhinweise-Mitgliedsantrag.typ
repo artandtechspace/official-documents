@@ -133,6 +133,9 @@ Verein insbesondere folgende Daten:
 - Bei minderjährigen Mitgliedern Angaben zu gesetzlichen
   Vertreter:innen, soweit diese für Antragstellung, Kommunikation oder
   Beitragsabwicklung erforderlich sind.
+- Bei juristischen Mitgliedern Angaben zu vertretungsberechtigten
+  Personen und benannten Ansprechpersonen, insbesondere Name, Funktion
+  und geschäftliche Kontaktdaten.
 - Zahlungsdaten, insbesondere IBAN, BIC, Kontoinhaber:in,
   Mandatsreferenz, Gläubiger-ID, Zahlungsstatus und
   Rücklastschriftinformationen.
@@ -162,7 +165,11 @@ Person erhoben. Bei minderjährigen Mitgliedern oder abweichenden
 Kontoinhaber:innen können einzelne Daten von der gesetzlichen Vertretung
 beziehungsweise der kontoinhabenden Person stammen.
 
-#pagebreak()
+Volljährige Familienmitglieder stellen grundsätzlich einen eigenen
+Mitgliedsantrag. Werden ihre Daten ausnahmsweise von einem anderen
+Familienmitglied angegeben, informiert der Verein sie gemäß Art. 14
+DSGVO, sofern sie die Datenschutzinformationen nicht bereits erhalten
+haben.
 
 = Zwecke der Verarbeitung
 
@@ -179,9 +186,9 @@ Die Daten werden zu folgenden Zwecken verarbeitet:
 - Einzug, Zuordnung und Verwaltung von Mitgliedsbeiträgen, Gebühren,
   Umlagen, Mahnkosten und Rücklastschriftkosten.
 - Prüfung ermäßigter Beiträge und der dafür erforderlichen Nachweise.
-- Kommunikation mit Mitgliedern, insbesondere zu
-  Mitgliederversammlungen, Vorstandsbeschlüssen, Beiträgen,
-  Zahlungserinnerungen und vereinsbezogenen Informationen.
+- Erforderliche Kommunikation mit Mitgliedern, Nutzenden und
+  Funktionsträger:innen zur Durchführung der Mitgliedschaft, eines
+  Nutzungsvertrags sowie gesetzlicher und satzungsmäßiger Aufgaben.
 - Erfüllung gesetzlicher, steuerlicher, vereinsrechtlicher und
   buchhalterischer Pflichten.
 - Wahrung berechtigter Vereinsinteressen, insbesondere geordnete
@@ -211,14 +218,68 @@ bestehen in einer sicheren und geordneten Vereinsverwaltung, einer
 zweckmäßigen internen Zusammenarbeit sowie im Schutz des Vereins und
 seiner Mitglieder vor Missbrauch und unbegründeten Ansprüchen.
 
-Art. 6 Abs. 1 lit. a DSGVO ist nur dann Rechtsgrundlage, wenn eine
-gesonderte freiwillige Einwilligung erteilt wurde, derzeit insbesondere
-für die Presse- und Öffentlichkeitsarbeit. Die Einwilligung kann
-jederzeit formlos mit Wirkung für die Zukunft widerrufen werden. Die
-Rechtmäßigkeit der Verarbeitung bis zum Widerruf bleibt unberührt. Ein
-etwaiger künftiger Newsletter erfordert eine eigene Anmeldung und eine
-hierauf bezogene Datenschutzinformation; die Mitgliedschaft wird davon
-nicht abhängig gemacht.
+Bei juristischen Mitgliedern werden die personenbezogenen Daten ihrer
+vertretungsberechtigten Personen und benannten Ansprechpersonen auf
+Grundlage von Art. 6 Abs. 1 lit. f DSGVO verarbeitet. Das berechtigte
+Interesse besteht in der ordnungsgemäßen Kommunikation sowie der
+Durchführung und Verwaltung der Mitgliedschaft der juristischen Person.
+Die Daten stammen von der juristischen Person oder unmittelbar von der
+jeweiligen Kontaktperson.
+
+#block(breakable: false)[
+  Art. 6 Abs. 1 lit. a DSGVO ist nur dann Rechtsgrundlage, wenn eine
+  gesonderte freiwillige Einwilligung erteilt wurde, derzeit insbesondere
+  für die Presse- und Öffentlichkeitsarbeit. Die Einwilligung kann
+  jederzeit formlos mit Wirkung für die Zukunft widerrufen werden. Die
+  Rechtmäßigkeit der Verarbeitung bis zum Widerruf bleibt unberührt. Ein
+  etwaiger künftiger Newsletter erfordert eine eigene Anmeldung und eine
+  hierauf bezogene Datenschutzinformation; die Mitgliedschaft wird davon
+  nicht abhängig gemacht.
+]
+
+= Vereinsbezogene Kommunikation
+
+Der Verein verwendet die angegebenen Kontaktdaten, insbesondere die
+E-Mail-Adresse, für Mitteilungen, die zur Bearbeitung des
+Mitgliedsantrags, zur Durchführung oder Beendigung der Mitgliedschaft
+oder eines Nutzungsvertrags sowie zur Erfüllung gesetzlicher und
+satzungsmäßiger Aufgaben erforderlich sind. Diese Kommunikation erfolgt
+je nach Anlass auf Grundlage von Art. 6 Abs. 1 lit. b, c oder f DSGVO.
+
+Zur erforderlichen vereinsbezogenen Kommunikation gehören insbesondere:
+
+- Einladungen, Tagesordnungen, Anträge, Zugangsdaten und Niederschriften
+  zu Mitgliederversammlungen.
+- Informationen zu Mitgliedsstatus und Mitgliederdaten sowie zu
+  Änderungen der Satzung, der Ordnungen, der Beitragsklassen oder der
+  Beitragshöhe.
+- Beitragsinformationen, SEPA-Vorabinformationen, Zahlungserinnerungen
+  und Mahnungen.
+- Mitteilungen über Beschlüsse des Vorstands, soweit diese die
+  Mitglieder oder die Durchführung der Mitgliedschaft betreffen.
+- Einladungen und Unterlagen zu Vorstands-, Beirats- oder
+  Ausschusssitzungen ausschließlich an die jeweiligen
+  Funktionsträger:innen.
+- Einladungen zu erforderlichen Nutzertreffen und Informationen zu
+  Öffnungszeiten, Schließungen, Zugangsregeln, Hausordnung, Sicherheit,
+  Maschinen- oder Raumnutzung, soweit diese die Mitgliedschaft oder einen
+  Nutzungsvertrag betreffen.
+- Organisatorische Mitteilungen zu Veranstaltungen oder Workshops, für
+  die sich die betroffene Person angemeldet hat.
+
+Diese Mitteilungen sind keine Werbung und kein freiwilliger Newsletter.
+Sie benötigen keine Einwilligung. Eine vollständige Abmeldung von dieser
+Kommunikation ist während der Mitgliedschaft oder der Laufzeit eines
+Nutzungsvertrags nicht möglich, soweit die jeweilige Mitteilung für
+deren Durchführung oder für gesetzliche oder satzungsmäßige Aufgaben des
+Vereins erforderlich ist.
+
+Allgemeine Projektberichte, Werbung für öffentliche Veranstaltungen,
+Spendenaktionen, Partnerangebote und sonstige nicht erforderliche
+Neuigkeiten werden nur im Rahmen eines gesonderten freiwilligen
+Newsletters versandt. Ein solcher Newsletter wird erst nach einer
+ausdrücklichen Anmeldung versandt und kann jederzeit mit Wirkung für die
+Zukunft abbestellt werden.
 
 = Empfänger und Dienstleister
 
@@ -284,13 +345,12 @@ Kalenderjahrs, in dem die jeweilige Unterlage entstanden ist. Während
 dieser Zeit werden die Daten nur noch für den jeweiligen
 Aufbewahrungszweck verarbeitet.
 
-Nachweise für ermäßigte Beiträge werden nach Prüfung möglichst auf das
-Prüfergebnis und dessen Gültigkeitszeitraum reduziert. Hochgeladene
-Nachweisdateien werden gelöscht, sobald sie für die Prüfung und eine
-erforderliche Nachweisführung nicht mehr benötigt werden. Ein
-SEPA-Lastschriftmandat wird nach Ende seiner Nutzung mindestens so lange
-aufbewahrt, wie Rückgabe- und Nachweisfristen des SEPA-Verfahrens dies
-erfordern.
+Nach erfolgreicher Prüfung werden hochgeladene Nachweisdateien spätestens
+innerhalb von 30 Tagen gelöscht. In Klärungsfällen erfolgt die Löschung
+nach deren Abschluss. Dauerhaft gespeichert werden nur Prüfergebnis,
+Prüfdatum und Gültigkeitszeitraum. Ein SEPA-Lastschriftmandat wird nach
+Ende seiner Nutzung mindestens so lange aufbewahrt, wie Rückgabe- und
+Nachweisfristen des SEPA-Verfahrens dies erfordern.
 
 Freiwillig bereitgestellte Profilbilder werden bei Entfernung durch das
 Mitglied, spätestens mit Beendigung der Mitgliedschaft gelöscht. Daten,
@@ -316,17 +376,37 @@ Rechte:
 - Beschwerde bei einer Datenschutzaufsichtsbehörde nach Art. 77 DSGVO.
 
 Zur Ausübung der Rechte genügt eine Mitteilung an den Verein über die
-oben genannten Kontaktdaten.
+oben genannten Kontaktdaten. Anfragen werden unverzüglich, spätestens
+innerhalb eines Monats nach Eingang bearbeitet. Bei komplexen oder
+zahlreichen Anfragen kann sich diese Frist nach Art. 12 Abs. 3 DSGVO um
+bis zu zwei Monate verlängern; der Verein informiert innerhalb eines
+Monats über die Verzögerung.
 
-Die für den Verein zuständige Aufsichtsbehörde ist:
+= Gesonderter Hinweis zum Widerspruchsrecht
 
-#block(stroke: 0.5pt + rgb("#777777"), inset: 10pt, radius: 2pt, breakable: false)[
-  Landesbeauftragte für Datenschutz und Informationsfreiheit
-  Nordrhein-Westfalen \
-  Postfach 20 04 44 · 40102 Düsseldorf \
-  Telefon: 0211 38424-0 \
-  E-Mail: poststelle\@ldi.nrw.de \
-  Website: www.ldi.nrw.de
+#block(stroke: 0.6pt + rgb("#222222"), inset: 10pt, radius: 2pt, breakable: false)[
+  Soweit der Verein personenbezogene Daten auf Grundlage von Art. 6 Abs.
+  1 lit. f DSGVO verarbeitet, können betroffene Personen aus Gründen
+  ihrer besonderen Situation jederzeit Widerspruch einlegen. Danach
+  verarbeitet der Verein die Daten nicht mehr, außer zwingende
+  schutzwürdige Gründe überwiegen oder die Verarbeitung dient
+  Rechtsansprüchen. Der Widerspruch kann formlos an die oben genannten
+  Kontaktdaten gerichtet werden. Direktwerbung kann jederzeit ohne
+  Angabe von Gründen widersprochen werden.
+]
+
+#block(breakable: false)[
+  Die für den Verein zuständige Aufsichtsbehörde ist:
+
+  #v(0.4em)
+  #block(stroke: 0.5pt + rgb("#777777"), inset: 10pt, radius: 2pt, breakable: false)[
+    Landesbeauftragte für Datenschutz und Informationsfreiheit
+    Nordrhein-Westfalen \
+    Postfach 20 04 44 · 40102 Düsseldorf \
+    Telefon: 0211 38424-0 \
+    E-Mail: poststelle\@ldi.nrw.de \
+    Website: www.ldi.nrw.de
+  ]
 ]
 
 = Pflichtangaben und Folgen fehlender Angaben
@@ -345,19 +425,6 @@ für die Durchführung der Mitgliedschaft erforderlich sind.
 Es findet keine ausschließlich automatisierte Entscheidung über die
 Aufnahme oder die Mitgliedschaft und kein Profiling im Sinne von Art. 22
 DSGVO statt.
-
-= SEPA-Lastschrift und Beitragsverwaltung
-
-Mitgliedsbeiträge, Gebühren und Umlagen sollen nach der Beitragsordnung
-grundsätzlich im SEPA-Basis-Lastschriftverfahren eingezogen werden. Das
-Mitglied erteilt hierfür ein SEPA-Lastschriftmandat und sorgt für eine
-ausreichende Deckung des angegebenen Kontos. In begründeten Fällen kann
-der Vorstand eine Zahlung per Überweisung zulassen.
-
-Der Verein informiert das Mitglied spätestens 14 Kalendertage vor dem
-Einzug über Betrag, Fälligkeit, Gläubiger-ID und Mandatsreferenz, sofern
-keine kürzere Frist vereinbart wurde. Rücklastschriftkosten, die das
-Mitglied zu vertreten hat, sind dem Verein zu erstatten.
 
 #pagebreak()
 
@@ -390,19 +457,3 @@ elektronischen Antrag nicht erforderlich.
   "Unterschrift gesetzliche Vertretung",
   subtitle: "Nur erforderlich, wenn das Mitglied minderjährig ist.",
 )
-
-#v(1.3em)
-
-#block(stroke: 0.5pt + rgb("#777777"), inset: 10pt, radius: 2pt, breakable: false)[
-  #strong[Interner Vermerk des Vereins] \
-  #v(0.8em)
-  #grid(
-    columns: (1fr, 1fr),
-    column-gutter: 1.2cm,
-    row-gutter: 0.8em,
-    field("Eingang des Mitgliedsantrags"),
-    field("Mitgliedsnummer"),
-    field("Beitragsklasse"),
-    field("Nachweis ermäßigter Beitrag geprüft am"),
-  )
-]
