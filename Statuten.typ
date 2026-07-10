@@ -2,14 +2,23 @@
 #let association-address = "Lindenstraße 11 · 48431 Rheine"
 #let document-title = "Vereinssatzung"
 #let document-date = "24. April 2024"
-#let document-version = "Beschlossen am 25.04.2024"
+#let document-version = "Entwurf 2026 · nicht beschlossen"
+#let draft-notice = [#strong[#emph[Die vorliegende Fassung der Satzung wurde noch nicht beschlossen und ist daher nicht gültig.]]]
+#let draft-watermark = place(center + horizon)[
+  #rotate(-35deg)[
+    #text(size: 44pt, weight: "bold", fill: rgb("#eeeeee"))[ENTWURF · NICHT BESCHLOSSEN]
+  ]
+]
 
 #set text(lang: "de", size: 11pt)
 #set document(
   title: "Vereinssatzung ARTandTECH.space e.V.",
   author: "ARTandTECH.space e.V.",
 )
-#set page(margin: (top: 4.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm))
+#set page(
+  margin: (top: 4.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm),
+  background: draft-watermark,
+)
 #set par(justify: true)
 #set enum(numbering: "(1)")
 #set heading(numbering: n => [§ #numbering("1", n)])
@@ -66,6 +75,9 @@
   #image("assets/logo.png", width: 30%)
 ]
 
+#v(1em)
+#align(center)[#draft-notice]
+
 #align(center)[
   #text(size: 13pt, weight: "bold")[Zusammenfassung]
 ]
@@ -86,6 +98,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 #set page(
   header: statuten-header,
   footer: statuten-frontmatter-footer,
+  background: draft-watermark,
 )
 #outline(title: [Inhaltsverzeichnis])
 #pagebreak()
@@ -93,6 +106,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 #set page(
   header: statuten-header,
   footer: statuten-footer,
+  background: draft-watermark,
 )
 
 = Name, Sitz, Geschäftsjahr
@@ -224,8 +238,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   30 Tagen nach Zugang des Ausschlusses, an den Vorstand zu richten. Die
   Berufung hat keine aufschiebende Wirkung. Die Mitgliederversammlung
   entscheidet mit der Mehrheit von zwei Dritteln der anwesenden
-  Mitglieder endgültig über den Ausschluss. Der Rechtsweg vor einem
-  ordentlichen Gericht ist ausgeschlossen.
+  Mitglieder vereinsintern endgültig über den Ausschluss.
 
 = Mitgliedsbeiträge
 <mitgliedsbeiträge>
@@ -369,41 +382,45 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 
 = Vorstand
 <vorstand>
-+ Der Vorstand besteht aus der/dem Vorstandsvorsitzenden, fünf
-  Stellvertreter:innen, der Kassiererin/dem Kassierer sowie bis zu vier
-  Beisitzer:innen.
++ Der Vorstand besteht aus der/dem Vorstandsvorsitzenden, drei von der
+  Mitgliederversammlung gewählten Stellvertreter:innen, zwei geborenen
+  Vorstandsmitgliedern, der Kassiererin/dem Kassierer sowie bis zu vier
+  Beisitzer:innen. Die geborenen Vorstandsmitglieder nehmen jeweils das Amt
+  einer Stellvertreterin/eines Stellvertreters wahr.
 
 + Der geschäftsführende Vorstand im Sinne des § 26 BGB besteht aus
-  der/dem Vorstandsvorsitzenden, fünf Stellvertreter:innen sowie der
-  Kassiererin/dem Kassierer. Diese Personen vertreten den Verein gerichtlich und
-  außergerichtlich. Zwei Mitglieder des geschäftsführenden Vorstands
-  vertreten gemeinsam. Beim Abschluss von Grund- oder Vermögenserwerb,
-  Kreditverträgen und laufenden finanziellen Verpflichtungen oder
-  Arbeitsverträgen vertritt die Kassiererin/der Kassierer den Verein gemeinsam
-  mit einem weiteren Mitglied des geschäftsführenden Vorstands aus
-  Vorsitz oder Stellvertretung.
+  der/dem Vorstandsvorsitzenden, den drei gewählten Stellvertreter:innen,
+  den zwei geborenen Vorstandsmitgliedern sowie der Kassiererin/dem Kassierer.
+  Diese sieben Personen sind stimmberechtigt und vertreten den Verein
+  gerichtlich und außergerichtlich. Jeweils zwei von ihnen vertreten den
+  Verein gemeinsam. Beim Abschluss von Grund- oder Vermögenserwerb,
+  Kreditverträgen, laufenden finanziellen Verpflichtungen oder
+  Arbeitsverträgen vertritt die Kassiererin/der Kassierer den Verein
+  gemeinsam mit einem weiteren Mitglied des geschäftsführenden Vorstands.
 
 + Die Vereinigung mehrerer Vorstandsämter in einer Person ist nicht
   zulässig.
 
-+ Die Mitglieder des Vorstandes werden von der Mitgliederversammlung
-  gewählt, soweit im Folgenden nichts anderes geregelt ist. Die
-  Vorstandsmitglieder sind ehrenamtlich tätig. Für die Beisitzer:innen
-  gilt ein Mindestalter von 14 Jahren, die übrigen Vorstandsmitglieder
-  müssen volljährig sein. Ein Vorstandsmitglied kann als Vertretung
-  der Kassiererin/des Kassierers benannt werden. Vorstandsmitgliedern kann
-  durch Beschluss des Vorstands ein besonderer Geschäftsbereich
-  zugewiesen werden. Es können nur Mitglieder des Vereins
-  Vorstandsmitglied werden. Alle Vorstandsmitglieder sind
-  stimmberechtigt.
++ Die/der Vorstandsvorsitzende, die drei gewählten Stellvertreter:innen,
+  die Kassiererin/der Kassierer und die Beisitzer:innen werden von der
+  Mitgliederversammlung gewählt. Sie müssen Mitglieder des Vereins sein.
+  Für die Beisitzer:innen gilt ein Mindestalter von 14 Jahren; die übrigen
+  Vorstandsmitglieder müssen volljährig sein. Die Vorstandsmitglieder sind
+  ehrenamtlich tätig. Ein Vorstandsmitglied kann als Vertretung der
+  Kassiererin/des Kassierers benannt werden. Vorstandsmitgliedern kann durch
+  Beschluss des Vorstands ein besonderer Geschäftsbereich zugewiesen werden.
+  Die Beisitzer:innen nehmen beratend an den Sitzungen des Vorstandes teil und
+  sind im Vorstand nicht stimmberechtigt.
 
-+ Geborene Mitglieder: Je eine von der Stadt Rheine und dem Kreis
-  Steinfurt benannte Person ist geborenes Mitglied im Vorstand. Sie muss
-  nicht Mitglied des Vereins sein. Sie nimmt im Vorstand mindestens das
-  Amt einer Stellvertreterin/eines Stellvertreters wahr.
++ Geborene Vorstandsmitglieder sind jeweils eine von der Stadt Rheine und eine
+  vom Kreis Steinfurt benannte volljährige natürliche Person. Sie werden nicht
+  von der Mitgliederversammlung gewählt und müssen nicht Mitglied des Vereins
+  sein.
 
-+ Der Vorstand wird auf die Dauer von zwei Jahren gewählt und bleibt bis
-  zur Neuwahl im Amt. Die Wiederwahl ist zulässig.
++ Die von der Mitgliederversammlung gewählten Vorstandsmitglieder werden auf
+  die Dauer von zwei Jahren gewählt und bleiben bis zur Neuwahl im Amt. Die
+  Wiederwahl ist zulässig. Das Amt eines geborenen Vorstandsmitglieds besteht
+  für die Dauer seiner Benennung.
 
 + Der Vorstand ist für alle Angelegenheiten des Vereins zuständig,
   soweit diese nicht durch die Satzung einem anderen Organ des Vereins
@@ -423,32 +440,42 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
   Geschäftsordnung geben. Diese wird in der nächsten
   Mitgliederversammlung bekannt gegeben.
 
-+ Mit Beendigung der Vereinsmitgliedschaft endet auch die Mitgliedschaft
-  im Vereinsvorstand. Scheidet ein Mitglied des Vorstandes vorzeitig
-  aus, so können die verbleibenden Vorstandsmitglieder für die restliche
-  Amtsdauer eine Nachfolge bestimmen.
++ Bei einem gewählten Vorstandsmitglied endet mit der Beendigung der
+  Vereinsmitgliedschaft auch das Vorstandsamt. Scheidet ein gewähltes
+  Vorstandsmitglied vorzeitig aus, können die verbleibenden stimmberechtigten
+  Vorstandsmitglieder für die restliche Amtsdauer eine Nachfolge bestimmen.
+  Die Nachfolge eines geborenen Vorstandsmitglieds wird von der jeweils
+  benennungsberechtigten Körperschaft bestimmt.
 
 + Der Vorstand fasst seine Beschlüsse in Sitzungen mit einfacher
   Mehrheit der abgegebenen Stimmen. Der Vorstand ist beschlussfähig,
-  wenn mindestens die Hälfte seiner Mitglieder anwesend ist. Bei
-  Stimmengleichheit entscheidet die Stimme der/des Vorsitzenden.
+  wenn mindestens die Hälfte seiner stimmberechtigten Mitglieder
+  anwesend ist. Bei Stimmengleichheit entscheidet die Stimme der/des
+  Vorsitzenden. Stimmenthaltungen und ungültige Stimmen gelten als nicht
+  abgegebene Stimmen.
 
 + Die/der Vorsitzende beruft die Vorstandssitzungen ein und leitet sie.
   Die Beschlüsse des Vorstandes sind zu protokollieren.
 
 + Der Vorstand kann seine Beschlüsse auch im schriftlichen oder
-  mündlichen Verfahren fassen, sofern kein Vorstandsmitglied
-  widerspricht.
+  mündlichen Verfahren fassen, sofern kein stimmberechtigtes
+  Vorstandsmitglied widerspricht.
 
 = Vergütung der Tätigkeit, externe Mitarbeiter und Geschäftsführung
 <vergütung-der-tätigkeit-externe-mitarbeiter-und-geschäftsführung>
 + Der Vorstand kann bei Bedarf und unter Berücksichtigung der
   wirtschaftlichen Verhältnisse und der Haushaltslage beschließen, dass
-  Vereins- und Organämter entgeltlich auf der Grundlage eines Dienst-
-  oder Arbeitsvertrages oder gegen Zahlung einer pauschalen
-  Aufwandsentschädigung gem. § 3 Nr. 26a EStG ausgeübt werden. Für die
+  Vereinsämter und sonstige Tätigkeiten außerhalb des Vorstandes
+  entgeltlich auf der Grundlage eines Dienst- oder Arbeitsvertrages oder
+  gegen Zahlung einer pauschalen Aufwandsentschädigung gem. § 3 Nr. 26a
+  EStG ausgeübt werden. Eine Vergütung von Vorstandsmitgliedern ist nur
+  zulässig, wenn die Mitgliederversammlung dies vor Beginn der Tätigkeit
+  dem Grunde und der Höhe nach beschließt. Betroffene
+  Vorstandsmitglieder sind bei der Beschlussfassung über ihre eigene
+  Vergütung oder ihren Vertrag nicht stimmberechtigt. Für die
   Entscheidung über Vertragsbeginn, Vertragsinhalte und Vertragsende ist
-  der Vorstand zuständig. Der Vorstand kann bei Bedarf und unter
+  der Vorstand zuständig, soweit diese Satzung keine Zuständigkeit der
+  Mitgliederversammlung vorsieht. Der Vorstand kann bei Bedarf und unter
   Berücksichtigung der wirtschaftlichen Verhältnisse und der
   Haushaltslage ebenfalls Aufträge über Tätigkeiten für den Verein gegen
   eine angemessene Vergütung oder Honorierung an Dritte vergeben.
@@ -530,10 +557,28 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 
 = Haftung
 <haftung>
-Der Verein haftet nicht für Schäden oder Verluste, die Mitglieder bei
-Benutzung von Anlagen und Einrichtungen des Vereins oder bei
-Vereinsveranstaltungen erleiden, soweit solche Schäden nicht durch
-Versicherungen gedeckt sind. § 276 BGB bleibt unberührt.
++ Organmitglieder, besondere Vertreter:innen und Vorstandsmitglieder,
+  die unentgeltlich tätig sind oder für ihre Tätigkeit eine Vergütung
+  erhalten, die 3.300 Euro jährlich nicht übersteigt, haften dem Verein
+  und den Mitgliedern für Schäden, die sie bei der Wahrnehmung ihrer
+  Pflichten verursachen, nur bei Vorsatz oder grober Fahrlässigkeit.
+
++ Gleiches gilt für Vereinsmitglieder, denen satzungsgemäße Aufgaben
+  des Vereins übertragen wurden.
+
++ Werden die in den Absätzen (1) und (2) genannten Personen von Dritten
+  wegen eines Schadens in Anspruch genommen, den sie bei der Wahrnehmung
+  ihrer Vereinsaufgaben verursacht haben, stellt der Verein sie von der
+  Haftung frei, soweit der Schaden nicht vorsätzlich oder grob
+  fahrlässig verursacht wurde.
+
++ Der Verein haftet nicht für Schäden oder Verluste, die Mitglieder bei
+  Benutzung von Anlagen und Einrichtungen des Vereins oder bei
+  Vereinsveranstaltungen erleiden, soweit solche Schäden nicht durch
+  Versicherungen gedeckt sind. Die Haftung für Schäden aus der
+  Verletzung des Lebens, des Körpers oder der Gesundheit sowie die
+  Haftung für vorsätzlich oder grob fahrlässig verursachte Schäden
+  bleibt unberührt.
 
 = Kommunikationswege im Verein
 <kommunikationswege-im-verein>
@@ -570,18 +615,12 @@ Beschlussfassung.
   Liquidator:innen, deren Aufgaben und Befugnisse sich nach den
   Vorschriften des BGB richten.
 
-+ Bei Auflösung des Vereins oder Wegfall steuerbegünstigter Zwecke fällt
-  das Vermögen zu gleichen Teilen an die Stadt Rheine und den Kreis
-  Steinfurt (Körperschaften des öffentlichen Rechts) zwecks Verwendung
-  für die Förderung
-
-  - der Wissenschaft und Forschung (§ 52 AO Abs. 2 Ziff. 1)
-
-  - der Jugendhilfe (§ 52 AO Abs. 2 Ziff. 4)
-
-  - der Kunst und Kultur (§ 52 AO Abs. 2 Ziff. 5)
-
-  - der Erziehung, Volks- und Berufsbildung (§ 52 AO Abs. 2 Ziff. 7)
++ Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke
+  fällt das Vermögen zu gleichen Teilen an die Stadt Rheine und den
+  Kreis Steinfurt, die es unmittelbar und ausschließlich für
+  gemeinnützige Zwecke im Sinne dieser Satzung, insbesondere zur
+  Förderung von Bildung, Jugendhilfe, Wissenschaft und Forschung sowie
+  Kunst und Kultur, zu verwenden haben.
 
 = Salvatorische Klausel
 <salvatorische-klausel>
@@ -594,6 +633,5 @@ Beschlussfassung.
 
 #v(1.2em)
 #align(center)[
-  #strong[#emph[Vorliegende Fassung der Satzung wurde in der
-  Mitgliederversammlung am 25.04.2024 beschlossen.]]
+  #draft-notice
 ]
