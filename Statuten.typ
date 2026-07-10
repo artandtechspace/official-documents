@@ -2,14 +2,23 @@
 #let association-address = "Lindenstraße 11 · 48431 Rheine"
 #let document-title = "Vereinssatzung"
 #let document-date = "24. April 2024"
-#let document-version = "Beschlossen am 25.04.2024"
+#let document-version = "Entwurf 2026 · nicht beschlossen"
+#let draft-notice = [#strong[#emph[Die vorliegende Fassung der Satzung wurde noch nicht beschlossen und ist daher nicht gültig.]]]
+#let draft-watermark = place(center + horizon)[
+  #rotate(-35deg)[
+    #text(size: 44pt, weight: "bold", fill: rgb("#eeeeee"))[ENTWURF · NICHT BESCHLOSSEN]
+  ]
+]
 
 #set text(lang: "de", size: 11pt)
 #set document(
   title: "Vereinssatzung ARTandTECH.space e.V.",
   author: "ARTandTECH.space e.V.",
 )
-#set page(margin: (top: 4.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm))
+#set page(
+  margin: (top: 4.5cm, bottom: 2.5cm, left: 2.5cm, right: 2.5cm),
+  background: draft-watermark,
+)
 #set par(justify: true)
 #set enum(numbering: "(1)")
 #set heading(numbering: n => [§ #numbering("1", n)])
@@ -66,6 +75,9 @@
   #image("assets/logo.png", width: 30%)
 ]
 
+#v(1em)
+#align(center)[#draft-notice]
+
 #align(center)[
   #text(size: 13pt, weight: "bold")[Zusammenfassung]
 ]
@@ -86,6 +98,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 #set page(
   header: statuten-header,
   footer: statuten-frontmatter-footer,
+  background: draft-watermark,
 )
 #outline(title: [Inhaltsverzeichnis])
 #pagebreak()
@@ -93,6 +106,7 @@ Umgang, der jedem gleiche Chancen für eine Teilhabe ermöglicht.
 #set page(
   header: statuten-header,
   footer: statuten-footer,
+  background: draft-watermark,
 )
 
 = Name, Sitz, Geschäftsjahr
@@ -619,6 +633,5 @@ Beschlussfassung.
 
 #v(1.2em)
 #align(center)[
-  #strong[#emph[Vorliegende Fassung der Satzung wurde in der
-  Mitgliederversammlung am 25.04.2024 beschlossen.]]
+  #draft-notice
 ]
